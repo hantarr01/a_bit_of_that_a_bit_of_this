@@ -1,0 +1,332 @@
+body{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	background-color: #131313;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+p,input,textarea{
+	font-family: 'Heebo', sans-serif;
+}
+
+
+.banner{
+	width: 100vw;
+	background-color: black;
+}
+
+.phtban{
+	float: left;
+	position: relative; 
+	width:100vw;
+	height: 60vw;
+	margin-bottom:-59vw;
+}
+
+.upBanner{
+	position: relative;
+	width:100%;
+}
+
+.downBanner{
+	width: 100%;
+}
+
+
+.logoPosition{
+	margin-left: 25vw;
+	width: 50vw;
+	padding-top:5%;
+
+}
+
+.logo{
+	margin-left:15vw; 
+	width:20vw;
+	height: 20vw;
+}
+
+
+.textBanner{
+	margin-top:10%;
+	text-align: center;
+	width:50vw;
+	font-size:3.5vw;
+	color: white;
+}
+
+
+.positionPressBlock{
+	margin-top: 5%;
+	margin-left: 37.5vw;
+}
+
+.pressBlock{
+	position:relative;
+	display: table;
+	border-radius:1%;
+	background-color: white;
+	width:25vw;
+	height: 25vw;
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.inbutPlace{
+	width:100%;
+	height:5vw;
+	padding-top:2.5vw;
+}
+
+.enterPlace{
+	width:70%;
+	height:2vw;
+	margin-left:15%;
+	font-size:0.9vw;
+	border-radius:1px;
+	color: #b4adad;
+}
+
+.smallBanners{
+	display: table;
+	height:3vw;
+}
+
+.smllBans{
+	float: left;
+	width:5vw;
+	height:3vw;
+}
+
+.icoBlock{
+	width:100%;
+	background-color: white;
+	margin-top:-10.4%;
+}
+
+.containerForIco{
+	width: 100%;
+	display: table;
+	padding-top:17%;
+	padding-bottom:5%;
+}
+
+.backIco{ 
+	float: left;
+	width:30vw;
+	margin-left:12vw; 
+}
+
+.ico{
+	float: left;
+	margin-top:1vw;
+	margin-left:1vw;  
+	width:8vw;
+	height: 10vw;
+}
+
+.txtPosition{
+	margin-left:10vw; 
+	width:20vw;
+}
+
+.headText{
+	font-size:1.7vw;
+}
+
+.generalText{
+	margin-top:-1vw;
+	font-size:0.9vw;
+	color: #5b5a5a;
+}
+
+.dBannerTextPosition{
+	width: 55%;
+	margin-left:22.5%;
+}
+
+.dBannerText{
+	margin-top:2vw;
+	text-align: center;
+	font-size:0.95vw;
+	color: #d4d2d2;
+}
+
+.button{
+	font-family: 'Heebo', sans-serif;
+	height: 3vw;
+	width: 45%;
+	margin-left: 27%;
+	background-color: #227dd3;
+	font-size: 1.6vw;
+	color: white;
+	border-radius: 2%;
+	border: none;
+}
+
+.grBlock{
+	margin-top:-3%;
+}
+
+.grban{
+	float: left;
+	position: relative; 
+	width:100vw;
+	height: 100%;
+}
+
+.infbl1{
+	width:60%;
+	margin-left: 20.5%;
+}
+
+.txtgr1{
+	position: relative;
+	float: left;
+	margin-top:-155%;
+	margin-left:-5%;
+}
+.hgrtxt{
+	text-align: center;
+	color: white;
+	font-size:3vw;
+}
+
+.gnrltxt{
+	text-align: left;
+	color: white;
+	font-size:0.9vw;
+	width: 80%;
+	margin-left:10%; 
+}
+
+.ph1{
+	position: relative;
+	float: left;
+	width: 35vw;
+	height:35vw;
+	margin-top:-172%;
+}
+
+.infbl2{
+	margin-left: 5%;
+}
+
+.txtgr2{
+	position: relative;
+	float: left;
+	margin-top:-47%;
+	margin-left: 43%;
+}
+
+.ph2{
+	position: relative;
+	float: left;
+	width: 40vw;
+	height:40vw;
+	margin-top:-42.6%;
+}
+
+.hgrtxt2{
+	text-align: left;
+	margin-left: 10%;
+	color: white;
+	font-size:3vw;
+}
+
+.grbtn{
+	width:30%;
+	height:5vw;
+	border-radius: 0.6vw;
+	background-color:#44a36f;
+	border: solid 0.2vw white;
+	color: white;
+	font-size:2vw;
+	margin-left: 10.5%;
+}
+
+.contactsB{
+	position: absolute;
+	width: 100%;
+	margin-top:105%;
+}
+
+.map{
+	position: relative;
+	width: 100%;
+	height:55vw;
+}
+
+.elips{
+	position: relative;
+	width: 30vw;
+	height: 30vw;
+	border-radius:100%;
+	background-color: white;
+	margin-top: -37%;
+	margin-left: 35%;
+	opacity: 0.95;
+}
+
+.inp{
+	position: absolute;
+	width:20vw;
+	height:20vw;
+	margin-left: 5vw;
+	margin-top: 25%;
+}
+
+
+.elpinp{
+	width:100%;
+	height:1.5vw; 
+	margin-bottom:5%; 
+	font-size:0.9vw;
+	color: #94959b;
+}
+
+.txtarea{
+	resize: none;
+	width:100%;
+	height:5vw;
+	font-size:0.9vw;
+	color:#94959b;
+}
+
+.crclblck{
+	width:5vw;
+	height:5vw;
+	margin-left: 33%;
+	margin-top: 8%;
+}
+
+.circle{
+	border-radius: 100%;
+	border:none; 
+	background-color: white;
+}
+
+footer{
+	position: absolute;
+	width: 100%;
+	height: 3vw;
+	background-color:#43a06d;
+	margin-top: 160.5%;
+	color: white;
+	text-align: center;
+	font-size:0.9vw;
+}
+
+.JSblck{
+	color: white;
+}
+
+#exp{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
