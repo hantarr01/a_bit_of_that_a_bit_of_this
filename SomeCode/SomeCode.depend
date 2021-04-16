@@ -2,3 +2,9 @@
 1612976848 source:c:\users\admin\desktop\examples c++\somecode\main.cpp
 	<iostream>
 
+1617476840 source:e:\worcks\Проекты\c++\a_bit_of_that_a_bit_of_this\somecode\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+
